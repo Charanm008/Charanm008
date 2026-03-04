@@ -34,7 +34,7 @@ I'm Charan Manthena, a Computer Science student & aspiring software developer.
 | Area | Stack |
 |-----|------|
 | **Frontend** | HTML, CSS, JavaScript |
-| **Backend** | Java |
+| **Backend** |![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) Java |
 | **Databases** | MySQL |
 | **DevOps** | Git, GitHub |
 | **IDE** | VS Code, IntelliJ IDEA, Antigravity, PyCharm|
