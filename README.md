@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋  
+# HOLA 👋  
 I'm Charan Manthena, a Computer Science student & aspiring software developer.
 
 🌱 Learning Java, DSA, and Web Technologies  
