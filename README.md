@@ -49,7 +49,7 @@ I'm Charan Manthena, a Computer Science student & aspiring software developer.
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(yet to update)*
+- 💼 LinkedIn: [Charan Manthena](www.linkedin.com/in/charan-manthena-m1501)
 - 📧 Email: charanmant8@gmail.com
 
 ---
